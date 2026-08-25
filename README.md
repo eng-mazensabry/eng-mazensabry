@@ -1,39 +1,79 @@
-# 👋 Hey, I'm Mazen Sabry!
+# Hey, I'm Mazen Sabry! 👋
 
-<h3 align="center">Junior Data Engineer | Python | SQL | Data Pipelines | Azure</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasR4ia7z/giphy.gif" width="35">
+</p>
+
+<h3 align="center">
+  Junior Data Engineer | Python | SQL | Data Pipelines | Azure
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Junior+Data+Engineer;Python+%7C+SQL+%7C+PySpark;Building+ETL+%2F+ELT+Data+Pipelines;Exploring+Microsoft+Azure;Learning+Big+Data+%26+AI+for+Data+Engineering" />
+</p>
 
 <p align="center">
   <a href="https://github.com/eng-mazensabry">
-    <img src="https://img.shields.io/badge/GitHub-eng--mazensabry-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/mazen-sabry-039b3a2b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mazen%20Sabry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=eng-mazensabry&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+<img align="right" width="380" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/master/assets/terminal.gif">
 
-I'm **Mazen Sabry**, a **Junior Data Engineer** with a strong interest in building reliable data pipelines, working with databases, and transforming raw data into useful and structured information.
+## 👨‍💻 About Me
 
-I'm currently developing my skills across the **Data Engineering ecosystem**, with a focus on:
+I'm **Mazen Sabry**, a **Junior Data Engineer** passionate about turning raw data into reliable, useful, and scalable data solutions.
 
-* 🐍 Python for Data Engineering
-* 🗄️ SQL & Database Management
-* 🔄 ETL / ELT & Data Pipelines
-* ⚡ Big Data Processing with Apache Spark
-* ☁️ Microsoft Azure Data Engineering
-* 🤖 AI & Prompt Engineering for Data Engineers
-* 🚀 Deployment, Git & CI/CD
+🔹 Working with **Python & SQL**
+🔹 Building **ETL / ELT pipelines**
+🔹 Exploring **Apache Spark & PySpark**
+🔹 Learning **Microsoft Azure Data Engineering**
+🔹 Interested in **Big Data & Data Platforms**
+🔹 Exploring **AI & Prompt Engineering for Data Engineers**
 
-I'm always learning, building projects, and improving my understanding of how data moves from **source → pipeline → transformation → storage → analytics**.
+<br clear="right"/>
 
 ---
 
-## 🧠 Data Engineering Stack
+## ⚡ My Data Engineering Journey
 
-### 💻 Programming & Data Processing
+```text
+             Raw Data
+                 │
+                 ▼
+        ┌─────────────────┐
+        │   Data Sources   │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │   ETL / ELT      │
+        │ Python + SQL     │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ Data Processing  │
+        │ Spark / PySpark  │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ Data Lake / DWH  │
+        │ Azure / SQL      │
+        └────────┬────────┘
+                 │
+                 ▼
+          🚀 Useful Data
+```
+
+---
+
+## 🧰 Technologies & Tools
+
+### 🐍 Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
@@ -41,136 +81,108 @@ I'm always learning, building projects, and improving my understanding of how da
 <img src="https://skillicons.dev/icons?i=bash" />
 </p>
 
-**Python • SQL • T-SQL • Pandas • NumPy • PySpark**
+`Python` `SQL` `T-SQL` `Pandas` `NumPy` `PySpark`
 
----
-
-### 🗄️ Databases & Data Storage
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-**Microsoft SQL Server • PostgreSQL • MySQL • Relational Databases • Data Modeling**
+`SQL Server` `PostgreSQL` `MySQL` `Database Design` `Data Modeling`
 
----
+### ⚙️ Data Engineering
 
-### 🔄 Data Engineering & Big Data
+`ETL` `ELT` `Data Pipelines` `Data Transformation`
+`Data Cleaning` `Batch Processing` `Big Data`
+`Apache Spark` `PySpark` `Data Warehousing`
+`Data Lake` `Lakehouse` `Delta Lake` `Parquet`
 
-<p>
-<img src="https://skillicons.dev/icons?i=apache" />
-</p>
-
-**ETL • ELT • Data Pipelines • Data Cleaning • Data Transformation • Batch Processing • Big Data • Apache Spark • PySpark • Data Warehousing • Data Lakes • Lakehouse Architecture • Delta Lake • Parquet**
-
----
-
-## ☁️ Microsoft Azure
-
-Currently developing my Azure Data Engineering skills and exploring cloud-based data platforms.
+### ☁️ Azure
 
 <p>
 <img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
-**Azure Data Factory • Azure Data Lake Storage Gen2 • Azure Databricks • Azure Synapse Analytics • Azure SQL Database • Azure Blob Storage • Azure Event Hubs • Azure Stream Analytics • Azure Monitor • Microsoft Entra ID • Unity Catalog**
+`Azure Data Factory` `Azure Data Lake Storage Gen2`
+`Azure Databricks` `Azure Synapse Analytics`
+`Azure SQL Database` `Azure Blob Storage`
+`Event Hubs` `Stream Analytics` `Azure Monitor`
+`Microsoft Entra ID` `Unity Catalog`
 
-Azure Data Factory is especially relevant to my learning path because it supports data movement, transformation, pipeline orchestration, monitoring, and CI/CD workflows.
-
----
-
-## 🛠️ Tools & Technologies
+### 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,jupyter" />
 </p>
 
-**Git • GitHub • VS Code • Docker • Linux • Jupyter Notebook • REST APIs • CI/CD**
-
----
-
-## 🤖 AI for Data Engineering
-
-I'm also exploring how AI can improve the daily workflow of a Data Engineer.
-
-**AI for Data Engineering • Generative AI • Prompt Engineering • LLMs • AI-assisted Data Analysis • AI-assisted SQL & Python • AI-assisted ETL Development**
+`Git` `GitHub` `VS Code` `Docker` `Linux` `Jupyter` `REST APIs` `CI/CD`
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-📌 Intro to Data Engineering
-📌 Programming Essentials
-📌 SQL & Database Management
-📌 Advanced Python for Data Engineering
-📌 Data Pipelines
-📌 Big Data Processing
-📌 Microsoft Azure Data Engineering
-📌 Deployment
-📌 AI for Data Engineers
-📌 Prompt Engineering
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Intro+to+Data+Engineering;Advanced+Python+for+Data+Engineering;SQL+%26+Database+Management;Data+Pipelines;Big+Data+Processing;Microsoft+Azure+Data+Engineering;Deployment;AI+for+Data+Engineers;Prompt+Engineering" />
+</p>
 
 ---
 
-## 🔭 What I'm Working On
-
-* Building data engineering projects using **Python & SQL**
-* Designing and improving **ETL / ELT pipelines**
-* Working with relational databases and data transformation
-* Exploring **Apache Spark & PySpark**
-* Learning cloud-based data engineering with **Microsoft Azure**
-* Improving my Git/GitHub and deployment workflow
-* Exploring practical applications of **AI in Data Engineering**
-
----
-
-## 🧩 My Data Engineering Mindset
+## 🤖 AI × Data Engineering
 
 ```python
-class DataEngineer:
+while True:
 
-    def __init__(self):
-        self.name = "Mazen Sabry"
-        self.role = "Junior Data Engineer"
+    learn()
+    build()
+    test()
+    debug()
+    improve()
 
-        self.skills = [
-            "Python",
-            "SQL",
-            "Data Pipelines",
-            "ETL / ELT",
-            "Apache Spark",
-            "Azure",
-            "Git & GitHub"
-        ]
+    if better_solution_found:
+        implement()
 
-        self.current_focus = [
-            "Big Data",
-            "Cloud Data Engineering",
-            "AI for Data Engineering",
-            "Prompt Engineering"
-        ]
-
-    def keep_learning(self):
-        return "Learn → Build → Break → Debug → Improve 🚀"
+    print("Keep going 🚀")
 ```
+
+Currently exploring:
+
+`Generative AI` • `LLMs` • `Prompt Engineering`
+`AI-assisted SQL` • `AI-assisted Python`
+`AI-assisted Data Analysis` • `AI for Data Engineering`
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 Wafferly
+
+> A graduation project where I worked on building a real-world software solution.
+
+**Focus:** Python • SQL • Data • GitHub
+
+🔗 [View Project](https://github.com/eng-mazensabry)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eng-mazensabry&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mazensabry&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eng-mazensabry&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-mazensabry&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Watch my contributions get eaten!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eng-mazensabry/eng-mazensabry/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eng-mazensabry&theme=tokyo-night&hide_border=true" />
@@ -178,7 +190,7 @@ class DataEngineer:
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Let's Connect
 
 <p align="center">
 
@@ -192,6 +204,6 @@ class DataEngineer:
 
 </p>
 
-<p align="center">
-  <i>Building with data. Learning every day. 🚀</i>
-</p>
+<h3 align="center">
+  🚀 Turning Data Into Insights, One Pipeline at a Time.
+</h3>
