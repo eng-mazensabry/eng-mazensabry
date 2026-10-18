@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  Junior Data Engineer | Python | SQL | Data Pipelines | Azure
+  Data Engineer | Python | SQL | Data Pipelines | Azure
 </h3>
 
 <p align="center">
