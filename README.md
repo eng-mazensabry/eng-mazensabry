@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Junior+Data+Engineer;Python+%7C+SQL+%7C+PySpark;Building+ETL+%2F+ELT+Data+Pipelines;Exploring+Microsoft+Azure;Learning+Big+Data+%26+AI+for+Data+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Data+Engineer;Python+%7C+SQL+%7C+PySpark;Building+ETL+%2F+ELT+Data+Pipelines;Exploring+Microsoft+Azure;Learning+Big+Data+%26+AI+for+Data+Engineering" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mazen Sabry**, a **Junior Data Engineer** passionate about turning raw data into reliable, useful, and scalable data solutions.
+I'm **Mazen Sabry**, a **Data Engineer** passionate about turning raw data into reliable, useful, and scalable data solutions.
 
 🔹 Working with **Python & SQL**
 🔹 Building **ETL / ELT pipelines**
