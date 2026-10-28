@@ -178,10 +178,11 @@ Currently exploring:
 ## 🐍 Watch my contributions get eaten!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eng-mazensabry/eng-mazensabry/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eng-mazensabry/eng-mazensabry/output/github-snake-dark.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/eng-mazensabry/eng-mazensabry/output/github-snake.svg">
+  </picture>
 </p>
-
----
 
 ## 📈 Contribution Activity
 
