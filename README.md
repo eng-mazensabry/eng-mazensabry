@@ -162,7 +162,7 @@ Currently exploring:
 
 **Focus:** Python • SQL • Data • GitHub
 
-🔗 [View Project](https://github.com/eng-mazensabry)
+🔗 [View Project](https://github.com/eng-mazensabry/Waffarly-Price-Tracker/blob/main/README.md)
 
 ---
 
