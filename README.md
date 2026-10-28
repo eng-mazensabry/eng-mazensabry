@@ -1,9 +1,8 @@
 # Hey, I'm Mazen Sabry! 👋
 
-<p align="center">
-  <img src="<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB0c3MzdW9jc3B0cDB3NjVreGZiNDFhYTZkazFvejdqczNoN25udyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p>">
+
+ <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasR4ia7z/giphy.gif" width="300">
 </p>
 
 <h3 align="center">
