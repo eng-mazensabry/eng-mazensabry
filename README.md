@@ -1,8 +1,8 @@
 # Hey, I'm Mazen Sabry! 👋
 
 
- <p align="center">
-  <img src="[https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI]" width="300">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
 <h3 align="center">
